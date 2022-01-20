@@ -1,0 +1,23 @@
+#submit{
+margin:20px;
+background-color: cadetblue;
+color:rgb(4, 27, 70);
+}
+#sort{
+    margin:20px;
+    display:none;
+    background-color: rgb(157, 237, 240);
+color:rgb(65, 3, 61);
+    }
+input {
+    margin:20px;
+    padding:20px;
+}
+body{
+background-color: rgb(206, 165, 245);
+text-align:center
+}
+#i{
+color:rgba(174, 0, 255, 0.26);
+}
+
